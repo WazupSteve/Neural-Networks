@@ -3,7 +3,7 @@ This repository contains an implementation of neural network architectures along
 
 ## Project Structure
 ```
-├── vgg16/
+├── vgg-16/
 │   ├── main.py           # VGG16 implementation with block method for layers
 │   ├── frog.py          # Image downloader script
 │   ├── test.py          # Model evaluation and classification
