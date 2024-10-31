@@ -1,4 +1,4 @@
-# Neural Network Implementation with VGG16
+# Neural Network Implementations
 This repository contains an implementation of neural network architectures along with utilities for image processing and model evaluation.
 
 ## Project Structure
